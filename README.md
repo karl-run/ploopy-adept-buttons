@@ -10,7 +10,9 @@ To solve this I created 3 raised buttons that are 3d-printable to be glued on to
 
 1. Download the [.stl](./ploopy_adept_raised_buttons.stl) file and import it into your favourite slicer.
 
-2. Because of the slight "lip" around the button to make it slot into the existing buttons, I recommend cutting the print in two, and gluing it after the print is done with superglue.
+2. If you're right handed, flip the model
+
+3. Because of the slight "lip" around the button to make it slot into the existing buttons, I recommend cutting the print in two, and gluing it after the print is done with superglue.
 
    I cut at 2mm, placing both pieces on the flat cut side:
 
@@ -20,8 +22,8 @@ To solve this I created 3 raised buttons that are 3d-printable to be glued on to
 
    ![Model after cut](img/cut_after.png)
 
-3. Because of the curves, I print at 0.15mm layer height. But this is up to your. Print!
+4. Because of the curves, I print at 0.15mm layer height. But this is up to your. Print!
 
-4. Glue together each of the cut pieces
+5. Glue together each of the cut pieces
 
-5. Dry fit to make sure it looks good. I recommend testing if it works for you by either just resting them on the buttons for a few days, or doing a thin piece of double sided tape. If you're happy with it like me, superglue them in place!
+6. Dry fit to make sure it looks good. I recommend testing if it works for you by either just resting them on the buttons for a few days, or doing a thin piece of double sided tape. If you're happy with it like me, superglue them in place!
